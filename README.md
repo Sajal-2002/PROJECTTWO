@@ -29,11 +29,7 @@ Avishkar Project
  </ol>
 
 
-# Presentation Link
-<ul>
-  <li><a href="https://docs.google.com/presentation/d/1YJ1f_7ym2mGT6H9STEzhe2x2VnxlGOIh/edit?usp=sharing&ouid=112519722956251370347&rtpof=true&sd=true" target="_blank" >View Presentation</a></li>
-  <li><a href="https://drive.google.com/file/d/1iq0CVDVdPfu9gvrlH6pvoRKNgTuiA5dK/view?usp=sharing" target="_blank">View PDF</a></li>
-  </ul>
+
   
  # Gallery
  ![image](https://user-images.githubusercontent.com/94921996/230766790-c9f54954-2a32-4b3d-8a43-2dbe17fad75b.png)
